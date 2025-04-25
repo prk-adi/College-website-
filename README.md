@@ -1,7 +1,9 @@
 # Kisan College Website - Modern Design with Animations
  
 Overview
-![Music Player Screenshot](Capture 2.PNG)
+
+![Music Player Screenshot](Capture 2.PNG).
+
 A responsive, modern website for Kisan College featuring elegant animations and interactive elements. This single-page application showcases the college's programs, facilities, admission process, and contact information with smooth scrolling navigation and engaging visual effects.
 
 Key Features
